@@ -55,14 +55,18 @@ const Camp = () => {
           subtitle="Prigen, Pasuran"
           peopleJoined="50 + Joined"
         />
-        {/* 
+        
         <Campsite
           backgroundImage=""
           title="Putuk Truno Camp"
           subtitle="Prigen, Pasuran"
           peopleJoined=" "
-        /> */}
-        <Campsite />
+        />
+
+
+        {/* <Campsite /> */}
+
+
       </div>
     </section>
   );
